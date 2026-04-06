@@ -71,7 +71,6 @@ The analysis focused on:
 **Interpretation:**  
 30–44 are core customers, 18–29 are growth customers, and older customers are high-value premium buyers.
 
----
 
 ### 🧠 Customer Behavior
 - Sessions lasting **5–10 minutes generated the highest revenue**  
@@ -80,7 +79,6 @@ The analysis focused on:
 **Interpretation:**  
 Customers who spend a moderate amount of time are more likely to purchase, while very long sessions may indicate browsing with low buying intent, difficulty finding products or checkout issues.
 
----
 
 ### 📈 Revenue Trends
 - **April generated the highest revenue**  
@@ -90,14 +88,12 @@ Customers who spend a moderate amount of time are more likely to purchase, while
 **Interpretation:**  
 Higher traffic does not always mean higher revenue, high-value customers drive revenue more than high traffic volume.
 
----
 
 ### 🌍 Geographic Performance
 - **United States** generated the highest revenue, sessions, and conversions  
 - **Japan generated relatively high revenue despite having the lowest cnversions**, indicating higher-value purchases  
 - **India generated the lowest revenue**
 
----
 
 ### 🧩 Customer Segments
 - **Regular customers generated the highest total revenue**  
@@ -107,7 +103,6 @@ Higher traffic does not always mean higher revenue, high-value customers drive r
 **Interpretation:**  
 Regular customers drive revenue through volume, while Budget and Premium customers drive revenue through higher-value purchases.
 
----
 
 ### 📣 Traffic Sources
 - **Organic traffic generated the highest revenue and conversions**  
@@ -117,7 +112,6 @@ Regular customers drive revenue through volume, while Budget and Premium custome
 **Interpretation:**  
 Organic traffic brings the most valuable users, while email marketing may not be performing well.
 
----
 
 ### 📱 Device Usage
 - **Mobile generated the highest revenue, sessions, and conversions**  
@@ -126,7 +120,6 @@ Organic traffic brings the most valuable users, while email marketing may not be
 **Interpretation:**  
 Most users browse and purchase using mobile devices, making mobile optimization very important.
 
----
 
 ## 🧠 Business Interpretation
 From a business perspective, the store appears to have:
@@ -157,7 +150,6 @@ This suggests focusing on:
 - Introduce **loyalty programs for Regular customers**  
 - Offer **bundle discounts** to potentially increase order value  
 
----
 
 ### 🛍️ Product & UX Strategy
 - Optimize **mobile user experience**  
@@ -166,7 +158,6 @@ This suggests focusing on:
 - Simplify **checkout process**
 - Optimize product titles and descriptions for search keywords 
 
----
 
 ### 🌍 Geographic Strategy
 - Focus advertising in **United States**  
